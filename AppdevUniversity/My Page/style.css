@@ -1,0 +1,54 @@
+#container
+{
+
+width:1000px;
+
+}
+
+#header
+{
+background-color:LightSteelBlue ;z-index:-1;
+background-image:url(images/body.jpg);
+color:FireBrick ;z-index:-1;
+font:15px Trebuchet MS,sans-serif;
+
+
+	
+}
+
+#header h1
+{
+	margin-bottom:0;
+	font:35px Trebuchet MS,sans-serif;
+}
+
+
+#header h2
+{
+text-align:right;
+}
+
+#menu
+{
+text-align:right;
+
+}
+body
+{
+
+}
+
+#leftmenu
+{
+background-color:Azure;height:500px;width:200px;float:left;
+
+}
+#content
+{
+
+}
+
+#signup
+{
+text-align:right;
+}
