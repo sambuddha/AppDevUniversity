@@ -1,0 +1,140 @@
+#container
+{
+
+width:1080px;
+
+margin-top:60px;
+margin-left:60px;
+//margin-right:800px;
+margin-bottom:35px;
+background-image:url(images/blog2.jpg);
+color:GhostWhite           ;z-index:-1;
+font:15px Trebuchet MS,sans-serif;
+opacity:0.8;
+filter:Alpha(opacity=100);
+position:relative;
+
+
+
+
+
+}
+
+#header
+{
+//background-color:LightSteelBlue ;z-index:-1;
+//background-image:url(images/blog2.jpg);
+color:GhostWhite           ;z-index:-1;
+font:15px Trebuchet MS,sans-serif;
+
+
+
+
+	
+}
+
+#header h1
+{
+	margin-bottom:0;
+	font:35px Trebuchet MS,sans-serif;
+//padding-top:2px;
+padding-bottom:5px;
+padding-right:10px;
+padding-left:10px;
+
+}
+
+
+#header h2
+{
+text-align:right;
+/*padding-top:5px;
+padding-bottom:5px;
+padding-right:5px;
+padding-left:5px;*/
+
+}
+
+#menu
+{
+text-align:center;
+
+}
+body
+{
+/*border-style:solid;
+border-width:1px;
+border-color:red;*/
+
+background-image:url(images/blog1.gif);
+background-position:center top;
+text-align:left;
+
+
+
+}
+
+
+#content
+{
+/*background-color:#EEEEEE;*/
+
+//background-color:LightSteelBlue
+/*height:500px;
+width:930px;*/
+background-image:url(images/blog2.jpg);
+float:left; 
+background-clip: border-box|padding-box|content-box;
+font:15px Trebuchet MS,sans-serif;
+height:500px;
+width:1080px;
+padding-top:5px;
+padding-bottom:5px;
+padding-right:5px;
+padding-left:5px;
+
+}
+
+
+
+
+
+#footer
+{
+background-color:Gray ;clear:both;text-align:center;
+width:1080px;
+margin-top:0px;
+/*margin-left:10px;*/
+font: 15px Trebuchet MS,sans-serif;
+}
+
+
+#links
+{
+        width:940px;
+	background-color:none;	
+        padding-left:60px;
+	padding-top:35px;
+	padding-bottom:10px;
+	font-size:20px;
+font:solid;
+	margin-left:250px;
+
+	text-transform:uppercase;
+
+}
+#links a
+{
+
+	color:LightSteelBlue ;
+
+	margin-left:75px;
+}
+#links a:hover
+{
+
+color:#1E90FF;
+
+}	
+
+  
